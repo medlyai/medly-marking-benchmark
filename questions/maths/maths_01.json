@@ -1,0 +1,8 @@
+{
+  "question_id": "maths_01",
+  "markmax": 1,
+  "question_stem": "The Venn diagram shows information about students in a tutor group and the sports clubs they attend.\n\n$\\xi$ = {students in the tutor group}\n$T$ = {students who play Tennis}\n$S$ = {students who play Squash}\n",
+  "question_text": "Write down the value of $n(T \\cup S)$.",
+  "markscheme": "1 mark for 7.",
+  "question_image": "questions/images/maths_01.png"
+}

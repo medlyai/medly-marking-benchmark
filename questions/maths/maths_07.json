@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_07",
+  "markmax": 3,
+  "question_stem": "Ken is mixing mortar to build a wall.\nTo build a 1-metre length of wall, he needs 10 kg of cement and 30 kg of sand.\n\nKen has one 25 kg bag of cement and one 100 kg bag of sand.",
+  "question_text": "Work out the maximum length of wall Ken can build with the cement and sand that he has.",
+  "markscheme": "P1 for a process to find the length possible with one ingredient, e.g. $25 \\div 10$ (= 2.5) or $100 \\div 30$ (= 3.33...)\n\nP1 for a complete process to find both possible lengths\n\nA1 for 2.5 (m) or $2 \\frac{1}{2}$ (m) with a correct justification or supporting calculations\n"
+}

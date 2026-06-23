@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_05",
+  "markmax": 2,
+  "question_stem": "The height, $h$ metres, of a stone thrown from the top of a cliff is given by the formula\n\n$$h = 40 + 8t - t^2$$\n\nwhere $t$ is the time in seconds after it is thrown.\n",
+  "question_text": "Find the values of $A$ and $B$ such that $40 + 8t - t^2 = A - (t - B)^2$.",
+  "markscheme": "M1 for a correct first step in the process, e.g. $-(t^2 - 8t)$ or sight of $(t - 4)^2$.\n\nA1 for $A = 56$ and $B = 4$.\n"
+}

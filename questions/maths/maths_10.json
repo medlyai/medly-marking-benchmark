@@ -1,0 +1,8 @@
+{
+  "question_id": "maths_10",
+  "markmax": 4,
+  "question_stem": "The diagram shows a pentagon ABCDE which is used as a design for a company logo.\n\nAngle $A = 120^\\circ$\n\nAngle $B$ : Angle $C$ : Angle $D = 2 : 3 : 5$\n\nAngle $E$ = Angle $B$\n",
+  "question_text": "Work out the difference, in degrees, between the size of the largest angle and the size of the smallest angle in the pentagon.\n",
+  "markscheme": "1 mark for $(5 - 2) \\times 180$ or 540 seen or implied.\n\n1 mark for setting up a correct method to find the sum of the remaining angles and divide by the total number of parts, e.g., $(540 - 120) \\div (2 + 3 + 5 + 2)$ or $12x = 420$.\n\n1 mark for correctly calculating the size of the largest angle (175) and the smallest angle (70).\n\n1 mark for the correct final answer of 105.\n\nAlternative marking: A correct answer of 105 with working implies all 4 marks.\n",
+  "question_image": "questions/images/maths_10.png"
+}

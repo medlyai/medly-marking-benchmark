@@ -1,0 +1,8 @@
+{
+  "question_id": "maths_09",
+  "markmax": 4,
+  "question_stem": "The diagram shows a sector of a circle with centre O and radius $r$.\n",
+  "question_text": "The perimeter of the sector is $40$ cm.\n\nWork out the value of the radius, $r$.\n\nGive your answer correct to 3 significant figures.\n",
+  "markscheme": "Arc length = $\\frac{120}{360} \\times 2 \\times \\pi \\times r$ or $\\frac{2}{3}\\pi r$\nM1 oe \n\nexpression for arc length\n'their arc length' $+ 2r = 40$ or $\\frac{2}{3}\\pi r + 2r = 40$\nM1 oe. \n\nA correct equation linking the perimeter to an expression for the radius.\n$r(\\frac{2\\pi}{3} + 2) = 40$\nM1dep\n\nDependent on previous M1. A correct step to isolate $r$, by factorising.\n$9.77$ A1 cao. Accept answers in the range $[9.769, 9.77]$.\n",
+  "question_image": "questions/images/maths_09.png"
+}

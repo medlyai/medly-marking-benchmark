@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_04",
+  "markmax": 2,
+  "question_stem": "A local council monitors the amount of plastic recycled by two different schools, Northfield School and Southwood School, over a 15-week period.",
+  "question_text": "Sarah claims, “On average, Northfield School recycled a greater mass of plastic per week, but their weekly amounts were less consistent than Southwood School’s.”\n\nIs Sarah correct?\nYou must use statistics from both schools to support your answer.",
+  "markscheme": "C1 for a correct comparison of medians with correct values (Northfield median is 48 kg, Southwood median is 45 kg) e.g. '48 > 45'.\n\nC1 for a correct comparison of a measure of spread with correct values (Northfield IQR is 17 kg, Southwood IQR is 12 kg) e.g. '17 > 12', leading to a fully justified conclusion that Sarah is correct.\n"
+}

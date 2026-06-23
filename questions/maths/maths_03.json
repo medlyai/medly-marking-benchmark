@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_03",
+  "markmax": 2,
+  "question_stem": "A machine produces microchips.\n\nThe probability that the first microchip produced is faulty is 0.2.\n\nIf a microchip is faulty, the probability the next one is faulty is 0.35.\n\nIf a microchip is not faulty, the probability the next one is faulty is 0.05.\n",
+  "question_text": "Find the probability that both the first and second microchips produced are not faulty.",
+  "markscheme": "1 mark for a correct method to find the product of the probabilities for two non-faulty microchips, e.g. (1 – 0.2) × (1 – 0.05) or 0.8 × 0.95 oe.\n\n1 mark for the correct answer of 0.76 oe (e.g. 19/25).\n"
+}

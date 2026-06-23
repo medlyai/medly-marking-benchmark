@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_11",
+  "markmax": 5,
+  "question_stem": "The functions f and g are such that\n$$\nf(x) = 4x + 3\n$$\n$$\ng(x) = x^2 - 5\n$$",
+  "question_text": "Work out the values of $x$ for which $fg(x) = f(x)$.\nGive your answers in the form $\\frac{a \\pm \\sqrt{b}}{c}$ where $a$, $b$ and $c$ are integers.",
+  "markscheme": "1 mark for finding the composite function $fg(x)$ by substituting $g(x)$ into $f(x)$, e.g., $4(x^2 - 5) + 3$.\n\n1 mark for forming the correct equation $4x^2 - 17 = 4x + 3$.\n\n1 mark for correctly rearranging their equation into a 3-term quadratic set to zero, e.g., $4x^2 - 4x - 20 = 0$ or $x^2 - x - 5 = 0$.\n\n1 mark for correct substitution into the quadratic formula for their 3-term quadratic, e.g., $x = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4(1)(-5)}}{2(1)}$.\n\n1 mark for the correct final answers in the required form $\\frac{1 \\pm \\sqrt{21}}{2}$.\n"
+}

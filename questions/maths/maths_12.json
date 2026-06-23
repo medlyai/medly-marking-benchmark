@@ -1,0 +1,8 @@
+{
+  "question_id": "maths_12",
+  "markmax": 5,
+  "question_stem": "The diagram shows a right pyramid, $VABCD$, with a square base $ABCD$. The vertex $V$ is directly above the centre of the base.",
+  "question_text": "The side length of the square base is 10 cm.\nThe perpendicular height of the pyramid is 15 cm.\n\nWork out the size of the angle between the sloping edges $VA$ and $VC$.\n\nGive your answer correct to 1 decimal place.",
+  "markscheme": "$AC^2 = 10^2 + 10^2$ or $AC = \\sqrt{200}$\nM1\nCorrect method to find the length of the base diagonal $AC$. Accept $14.1...$\n\n$VA^2 = 15^2 + (\\frac{\\text{their } \\sqrt{200}}{2})^2$ or $VA^2 = 225 + 50$\nM1\nCorrect method to find the square of the slant edge length, $VA^2$. Let $M$ be centre of base, this is $VM^2 + AM^2$.\n\n$VA = \\sqrt{275}$ or $16.58...$\nA1\nCorrect slant edge length. May be implied by subsequent working.\n\n$\\cos(AVC) = \\frac{275 + 275 - 200}{2 \\times 275}$\nM1\nCorrect substitution into the Cosine Rule. Accept use of their values for $VA^2$ and $AC^2$. $VA=VC$.\n\n$50.5$\nA1\nAccept answers in the range $50.4$ to $50.5$.",
+  "question_image": "questions/images/maths_12.png"
+}

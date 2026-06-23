@@ -1,0 +1,8 @@
+{
+  "question_id": "maths_08",
+  "markmax": 3,
+  "question_stem": "The diagram shows a right-angled triangle.\n\nThe lengths of the two shorter sides of the triangle are $\\sqrt{27}$ cm and $\\sqrt{48}$ cm.\n",
+  "question_text": "The length of the shortest side of the triangle is $L$ cm.\n\nFind the value of $L^{-5}$\n\nGive your answer in the form $\\frac{\\sqrt{a}}{b}$ where $a$ and $b$ are integers.\n",
+  "markscheme": "M1 for a correct first step, e.g. writing as $\\frac{1}{(\\sqrt{27})^5}$ or $\\frac{1}{(3\\sqrt{3})^5}$.\n\nM1 for a complete process to rationalise their denominator, e.g. by multiplying the numerator and denominator of $\\frac{1}{2187\\sqrt{3}}$ by $\\sqrt{3}$.\n\nA1 for $\\frac{\\sqrt{3}}{6561}$.\n",
+  "question_image": "questions/images/maths_08.png"
+}

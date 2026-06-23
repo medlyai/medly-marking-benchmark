@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_02",
+  "markmax": 1,
+  "question_stem": "A circular pond is planned for a new park. \n\nOn a coordinate grid representing the park layout, the edge of the pond is modelled by the circle C with equation $x^2 + y^2 = 40$.\n\nA straight path, L, is modelled by the equation $y = 3x - 20$.\n",
+  "question_text": "What does your answer to part (a) tell you about the geometric relationship between the path and the edge of the pond?",
+  "markscheme": "B1 for a correct statement, e.g. 'The line is a tangent to the circle' or 'The path just touches the pond at one point'."
+}

@@ -1,0 +1,7 @@
+{
+  "question_id": "maths_06",
+  "markmax": 3,
+  "question_stem": "The value of a company's shares increases by 20% in 2022.\n\nIn 2023, the value of the shares increases by a further 20%.\n",
+  "question_text": "Work out the value of the shares at the start of 2022 as a fraction of their value at the end of 2023.",
+  "markscheme": "P1 for process to find the multiplier for a 20% increase, e.g. $1.2$ or $\\frac{6}{5}$\n\nP1 for complete process to find the overall multiplier, e.g. $1.2 \\times 1.2$ or $(\\frac{6}{5})^2$ or for a complete method using a starting value e.g. 100, 120, 144\n\nA1 for $\\frac{25}{36}$ oe\n"
+}
